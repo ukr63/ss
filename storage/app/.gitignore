@@ -1,0 +1,4 @@
+*
+!public/
+!project_files/
+!.gitignore
